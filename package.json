@@ -1,0 +1,21 @@
+{
+  "name": "backend-shekar2004",
+  "version": "1.0.0",
+  "description": "This assignment involves implementing a set of APIs to manage a hierarchical data structure. The APIs will allow users to **create, update, fetch, and delete** data while maintaining the hierarchy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.12.1",
+    "nodemon": "^3.1.9",
+    "uuid": "^11.1.0"
+  }
+}
